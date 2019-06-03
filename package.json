@@ -1,0 +1,28 @@
+{
+  "name": "lastlettergame",
+  "version": "1.0.0",
+  "description": "Prerquisites:\r NodeJs -> https://nodejs.org/en/download/",
+  "main": "index.js",
+  "bin": {
+    "lastlettergame": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohoncharenko/LASTLETTERGAME.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ohoncharenko/LASTLETTERGAME/issues"
+  },
+  "homepage": "https://github.com/ohoncharenko/LASTLETTERGAME#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
+}

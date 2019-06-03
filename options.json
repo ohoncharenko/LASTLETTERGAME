@@ -1,0 +1,14 @@
+{
+    "dictionaries": [
+        { "name": "eng", "desc": "English nouns", "file": "nounlist.txt" },
+        {
+            "name": "ru",
+            "desc": "Русские существительные",
+            "file": "word_rus.txt"
+        }
+    ],
+    "modes": [
+        { "name": "single", "desc": "vs Bot" },
+        { "name": "multiplayer", "desc": "vs other Player" }
+    ]
+}
